@@ -1,7 +1,7 @@
 # bulletin-board
 A digital bulletin-board where you can post sticky notes 
 
-[!preview](preview.png "Preview")
+![preview](preview.png "Preview")
 
 ## How to View Project
 To view this project, clone this repo and run `npm i`. 
