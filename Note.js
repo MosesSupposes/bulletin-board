@@ -36,7 +36,7 @@ class Note extends Component {
 
 	shouldComponentUpdate(nextProps, nextState) {
 		return (
-			this.props.cildren !== nextProps.children || this.state !== nextState
+			this.props.children !== nextProps.children || this.state !== nextState
 		)
 	}
 
